@@ -1,5 +1,6 @@
 {
   "build": {
+    "markdownEngineName": "markdig",
     "content": [
       {
         "files": [
@@ -146,7 +147,7 @@
         "api/Microsoft.Azure.Management.Compute*.yml": "big-compute",
         "api/Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling*.yml": "Other",
         "api/Microsoft.Azure.Management.Graph.RBAC.Fluent*.yml": "cosmos db"
-        
+
       },
       "version": {
         "api/overview/azure/**/*.yml": ["azure-dotnet"],
